@@ -38,8 +38,6 @@ Power BI is used to create interactive and informative visualizations that showc
 ## Power BI Visualization
 
 
-## Screenshots
-
 ![App Screenshot](https://github.com/Kunalpg25/Pizza_Sales/blob/master/Dashboard_ss.png)
 
 
