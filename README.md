@@ -1,5 +1,5 @@
 
-# Pizza Sales Analysis
+# Pizza Sales Analysis using SQL
 
 ## Overview
 
